@@ -35,11 +35,9 @@ Hello, my name is Adam Khamarullah. I am a Fullstack Web Developer with five yea
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?logo=gitlab&style=social)&nbsp;&nbsp;
 
-![Adam's Github Stats](https://github-readme-stats.vercel.app/api?username=adam14&include_all_commits=true)
+![Adam's Github Stats](https://github-readme-stats.vercel.app/api?username=adam14)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam14)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adam14)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam14&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adam14)
 
